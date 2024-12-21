@@ -1,4 +1,4 @@
-# ESP32 and Beneweke TF Luna Lidar
+# ESP32 and Benewake TF Luna Lidar
 
 Benewake TF Luna Lidar
 https://files.seeedstudio.com/wiki/Grove-TF_Mini_LiDAR/res/SJ-PM-TF-Luna-A03-Product-Manual.pdf
